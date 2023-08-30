@@ -1,0 +1,8 @@
+borrowBill#2000 
+Addressline Dammam- Alrakah 
+Total amount:115
+-----------------------------
+borrowBill#2000 
+Addressline Dammam- Alrakah 
+Total amount:115
+-----------------------------
